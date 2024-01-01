@@ -1,0 +1,12 @@
+Employee_ID,Name,Department,Position,Branch,Email,Start_Date,Salary
+101,Michael Scott,Management,Regional Manager,Scranton,michael@dundermifflin.com,2001-04-06,75000
+102,Dwight Schrute,Sales,Assistant to the Regional Manager,Scranton,dwight@dundermifflin.com,2001-04-06,65000
+103,Jim Halpert,Sales,Sales Representative,Scranton,jim@dundermifflin.com,2001-04-06,60000
+104,Pam Beesly,Reception,Receptionist,Scranton,pam@dundermifflin.com,2001-04-06,45000
+105,Ryan Howard,Temp,Temp,Scranton,ryan@dundermifflin.com,2005-02-20,35000
+106,Andy Bernard,Sales,Sales Director,Scranton,andy@dundermifflin.com,2006-09-22,70000
+107,Angela Martin,Accounting,Accountant,Scranton,angela@dundermifflin.com,2001-04-06,58000
+108,Oscar Martinez,Accounting,Accountant,Scranton,oscar@dundermifflin.com,2001-04-06,58000
+109,Kevin Malone,Accounting,Accountant,Scranton,kevin@dundermifflin.com,2001-04-06,48000
+110,Toby Flenderson,Human Resources,HR Representative,Scranton,toby@dundermifflin.com,2001-04-06,55000
+111,Creed Bratton,Quality Assurance,Quality Assurance Director,Scranton,creed@dundermifflin.com,2001-04-06,40000

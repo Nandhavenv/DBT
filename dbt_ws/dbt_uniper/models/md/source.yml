@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: ELEMENTARY
+    database: JIM  
+    schema: UNIPER_ELEMENTARY  
+    tables:
+      - name: DBT_INVOCATIONS
+      - name: DBT_MODELS
+      - name: DBT_COLUMNS
+
+  - name: EXAMPLE
+    database: JIM  
+    schema: UNIPER_EXAMPLE  
+    tables:
+      - name: MY_FIRST_DBT_MODEL

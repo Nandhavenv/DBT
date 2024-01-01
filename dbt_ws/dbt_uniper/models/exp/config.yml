@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: data_test
+    columns:
+      - name: emp_name
+        tests:
+          - unique
+          - not_null

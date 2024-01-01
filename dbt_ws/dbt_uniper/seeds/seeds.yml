@@ -1,0 +1,14 @@
+version: 2
+
+seeds:
+  - name: the_office
+    config:
+      enabled: true
+      delimiter: ','
+      column_types:
+        Employee_ID: number(16,0)
+        Name: varchar(50)
+        Department: varchar(50)
+        Position: varchar(50)
+        Branch: varchar(50)
+        Email: varchar(50)
