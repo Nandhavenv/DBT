@@ -1,0 +1,28 @@
+dbt_uniper:
+  outputs:
+    dev:
+      account: dj86119.central-india.azure
+      database: TEST
+      password: Thiru9791@@
+      role: ACCOUNTADMIN
+      schema: UNIPER
+      threads: 1
+      type: snowflake
+      user: nandha
+      warehouse: YO_TEST
+  target: dev
+
+
+dbt_uniper:
+  outputs:
+    dev:
+      account: dj86119.central-india.azure
+      database: JIM
+      password: Thiru9791@@
+      role: ACCOUNTADMIN
+      schema: UNIPER
+      threads: 1
+      type: snowflake
+      user: nandha
+      warehouse: YO_TEST
+  target: dev
