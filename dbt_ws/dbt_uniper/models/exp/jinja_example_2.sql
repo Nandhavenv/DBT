@@ -6,4 +6,5 @@
   UNION ALL
 {% endfor %}
 SELECT 'Shankar' AS emp
+
 FROM dual
