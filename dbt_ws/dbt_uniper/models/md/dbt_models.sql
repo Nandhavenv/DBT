@@ -1,1 +1,1 @@
-select * from {{ source('ELEMENTARY', 'DBT_MODELS') }}
+select * from {{ source("ELEMENTARY", "DBT_MODELS") }}

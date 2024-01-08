@@ -1,1 +1,1 @@
-SELECT * FROM {{ ref("the_office") }}
+select * from {{ ref("the_office") }}
